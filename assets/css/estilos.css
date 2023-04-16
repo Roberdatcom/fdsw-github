@@ -3,6 +3,9 @@ body {
 }
 
 /* Hero Section */
+a.feo {
+  width: 25px;
+}
 
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
@@ -32,8 +35,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
